@@ -6,7 +6,7 @@ export default function Travel() {
     <div className="travel-container">
       {/* Navbar */}
       <nav className="navbar">
-        <div className="logo">✈️ TravelX</div>
+        <div className="logo">Flyboard</div>
         <ul className="nav-links">
           <li><a href="#destinations">Destinations</a></li>
           <li><a href="#packages">Packages</a></li>
@@ -105,7 +105,7 @@ export default function Travel() {
       {/* Footer */}
       <footer className="footer" id="contact">
         <p>© 2025 TravelX. All rights reserved.</p>
-        <p>Follow us on 🌍 Instagram | Facebook | Twitter</p>
+        <p>Follow us on Instagram | Facebook | Twitter</p>
       </footer>
     </div>
   );
